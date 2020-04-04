@@ -1,1 +1,1 @@
-# spring_multitenancy
+# Spring multitenant architecture skeleton app
